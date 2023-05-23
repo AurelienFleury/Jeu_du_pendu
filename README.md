@@ -24,7 +24,7 @@ Le code source est composé des éléments suivants :
 
 1. Assurez-vous d'avoir un fichier 'mots_pendu.txt' contenant une liste de mots, un mot par ligne. Mettez-le dans le même dossier que le fichier contenant le code python.
 
-2. Exécutez le script Python `pendu.py`.
+2. Exécutez le script Python 'main.py'.
 
 3. Suivez les instructions pour deviner les lettres du mot. Entrez une lettre à chaque tour.
 
